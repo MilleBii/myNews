@@ -68,5 +68,23 @@
   sous le pic.
 - À surveiller : financement des observations AMOC menacé.
 
+## Guerre en Iran (signalé le 2026-06-11)
+- Cessez-le-feu fragile (au 10-11 juin) : Israël a stoppé ses
+  frappes sur l'Iran (Netanyahu, sans reconnaissance formelle) ;
+  Iran suspend ses opérations à condition qu'Israël cesse au
+  Liban. ~100e jour de guerre.
+- Escalade 7-8 juin : ~30 missiles balistiques iraniens sur
+  Israël (1re depuis cessez-le-feu d'avril), morts civils.
+  Déclencheur : frappe israélienne sur Beyrouth-Sud le 7 juin.
+- Liban = détonateur. Bilan cumulé 3 526 tués / 10 733 blessés
+  (2 mars-6 juin).
+- Nucléaire : non abordé dans les négociations en cours. Trump :
+  Iran "intraitable", seul point non réglé. Exigence US :
+  transfert des ~400 kg d'uranium enrichi restants.
+- Contexte de fond (ne pas re-signaler) : guerre ouverte depuis
+  le 28/02/2026 (bombardements US-Israël), après "guerre des
+  Douze jours" 2025. Négociations Mascate (6/02) et Genève
+  (27/02) échouées.
+
 ## Autres sujets
 (à initialiser au premier run)
