@@ -52,5 +52,21 @@
   Griffin-1 (pôle sud, >= juil. 2026). Chine : Chang'e 7 vise
   le pôle sud (glace d'eau), 2e semestre 2026.
 
+## Changement climatique (signalé le 2026-06-11)
+- Températures : mai 2026 +1,42°C vs préindustriel (Copernicus).
+  OMM : 86% de chances qu'une année 2026-2030 batte 2024
+  (record), fourchette +1,3 à +1,9°C. Dépassement durable du
+  1,5°C "presque inévitable".
+- El Niño : OMM 80% d'ici août, 90% de persistance jusqu'à nov.
+  Canicule "exceptionnelle" en Europe début juin.
+- COP31 : Antalya (Turquie), 9-20 nov. 2026, présidence
+  australienne (Canberra). Appel à "sortir des fossiles".
+  Bilan mondial : -43% GES 2023->2030. UK cible -87% d'ici
+  2040 (vs 1990, fixé le 2 juin).
+- Émissions Chine plates/en baisse depuis ~21 mois, possible
+  déclin S2 2025 (renouvelables ~40% mix élec). Caveat : ~1%
+  sous le pic.
+- À surveiller : financement des observations AMOC menacé.
+
 ## Autres sujets
 (à initialiser au premier run)
