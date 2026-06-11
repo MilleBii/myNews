@@ -22,5 +22,18 @@
 - Blue Origin : développement >1an (WSJ déc 2025).
 - Critiques connues : faisabilité non démontrée, coûts de
   lancement, impact environnemental.
+## Batteries électriques (signalé le 2026-06-11)
+- Sodium-ion en série : cellule CATL Naxtra (175 Wh/kg,
+  90% capacité à -40°C). Changan Nevo A06 = 1re berline
+  grand public sodium-ion, commercialisation mi-2026.
+  Stockage stationnaire sodium CATL prévu sept. 2026.
+- Norme MIIT 15 000 cycles (~20 ans). CATL annonce (fin mai)
+  avoir levé les verrous de passage en grande série.
+- Solid-state : QuantumScape procédé Cobra + ligne pilote
+  Eagle, échantillons QSE-5 livrés ; indus via PowerCo/VW
+  (5 -> 80 GWh/an). Toyota 450-500 Wh/kg petite série 2027-28.
+  BYD all-solid-state 2027. Greater Bay / SAIC-Qingtao
+  (annonces "prêt à produire", série réelle plutôt 2027+).
+
 ## Autres sujets
 (à initialiser au premier run)
