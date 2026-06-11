@@ -35,5 +35,22 @@
   BYD all-solid-state 2027. Greater Bay / SAIC-Qingtao
   (annonces "prêt à produire", série réelle plutôt 2027+).
 
+## Lune / exploration spatiale (signalé le 2026-06-11)
+- Artemis II : vol habité autour de la Lune, lancé 1/04/2026,
+  retour 10/04. 1er équipage au-delà de l'orbite basse depuis
+  Apollo 17 ; 1er vol habité SLS + Orion. Sans alunissage.
+- Artemis III remanié (fév. 2026) : test habité en orbite
+  terrestre (amarrage Orion + pathfinders HLS Starship /
+  Blue Moon Mk1). Architecture 3 lancements. Cible fin 2027.
+- Blue Origin : New Glenn a explosé (mai 2026), pad endommagé,
+  doute sur disponibilité pour Artemis III.
+- NASA : ~20Md$ pour base lunaire permanente d'ici 2030,
+  ressources redirigées depuis le Lunar Gateway (directives
+  présidentielles déc. 2025).
+- Atterrisseurs commerciaux 2026 (CLPS) : IM-3 (Reiner Gamma,
+  début 2026), Firefly Blue Ghost M2 (face cachée), Astrobotic
+  Griffin-1 (pôle sud, >= juil. 2026). Chine : Chang'e 7 vise
+  le pôle sud (glace d'eau), 2e semestre 2026.
+
 ## Autres sujets
 (à initialiser au premier run)
