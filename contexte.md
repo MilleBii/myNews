@@ -3,7 +3,15 @@
 - SpaceX AI1 : design dévoilé le 8/06 (150kW pic/120kW moyen,
   panneaux 70m, orbite 600km, liens laser). Usine Gigasat à
   Bastrop TX, objectif 1GW/an fin 2027. IPO le 12/06 (75Md$,
-  valo 1770Md$). Clients évoqués : Anthropic, Google.
+  valo ~1770-2000Md$). Clients évoqués : Anthropic, Google.
+  Détails techniques : radiateur liquide 110m², charge utile à
+  puces interchangeables, 70kW/tonne. Ticker SPCX (Nasdaq).
+- Contrats compute SpaceX chiffrés : Anthropic 1,25Md$/mois
+  jusqu'à mai 2029 (Colossus 1, Memphis) ; Google 920M$/mois
+  d'oct. 2026 à juin 2029 (~110k GPU). ~26Md$/an. Actifs xAI
+  (racheté par SpaceX fév. 2026).
+- Orbital Compute Inc. : pre-seed 5M$ (9/06). Démo Pathfinder
+  + satellite Orbital-1.
 ## Connaissances de fond (ne pas re-signaler)
 - Starcloud-1 en orbite depuis nov 2025 (H100), 1er LLM en
   orbite déc 2025. Starcloud-2 oct 2026. Valo 1,1Md$.
